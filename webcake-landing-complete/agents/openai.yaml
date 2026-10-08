@@ -1,0 +1,6 @@
+interface:
+  display_name: "Landing Webcake A–Z"
+  short_description: "Tạo landing, nối POS và kiểm chứng tracking Meta"
+  default_prompt: "Dùng $webcake-landing-complete để tự hoàn thiện landing từ thông tin sản phẩm tôi cung cấp, bao gồm Webcake, POS và sự kiện Meta."
+policy:
+  allow_implicit_invocation: true
